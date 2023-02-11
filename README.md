@@ -1,2 +1,4 @@
-# rpg
-Developing a text-based rpg for Python, integrating with a SQL database.
+# Completely Generic RPG Adventure
+Greetings adventurer!
+
+This is a develoment of a text-based rpg for Python. In order to save states, stats, equipments and so on, there will be integration with a SQL database.
